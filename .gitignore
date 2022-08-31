@@ -1,0 +1,14 @@
+.DS_Store
+bin
+lint.exe
+*.log
+/mole
+/mole.wasm
+/test.mjs
+.env
+*.so
+/test.go
+/.vscode/launch.json
+cpu.out
+mem.out
+trace.out
